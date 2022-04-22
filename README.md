@@ -1,4 +1,4 @@
-# Gymtastic
+# Gymtastic Test
 
 In this exercise, we'll be using everything we've learned so far about the Box Model and CSS selectors.
 
